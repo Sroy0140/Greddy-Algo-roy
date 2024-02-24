@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Greedy_Algo_React_Site/static/css/main.0fba34ad.css",
-    "main.js": "/Greedy_Algo_React_Site/static/js/main.a7a3540d.js",
-    "static/js/787.18a89929.chunk.js": "/Greedy_Algo_React_Site/static/js/787.18a89929.chunk.js",
-    "index.html": "/Greedy_Algo_React_Site/index.html",
-    "main.0fba34ad.css.map": "/Greedy_Algo_React_Site/static/css/main.0fba34ad.css.map",
-    "main.a7a3540d.js.map": "/Greedy_Algo_React_Site/static/js/main.a7a3540d.js.map",
-    "787.18a89929.chunk.js.map": "/Greedy_Algo_React_Site/static/js/787.18a89929.chunk.js.map"
+    "main.css": "/Greedy_Algorithms/static/css/main.0fba34ad.css",
+    "main.js": "/Greedy_Algorithms/static/js/main.9389e993.js",
+    "static/js/787.18a89929.chunk.js": "/Greedy_Algorithms/static/js/787.18a89929.chunk.js",
+    "index.html": "/Greedy_Algorithms/index.html",
+    "main.0fba34ad.css.map": "/Greedy_Algorithms/static/css/main.0fba34ad.css.map",
+    "main.9389e993.js.map": "/Greedy_Algorithms/static/js/main.9389e993.js.map",
+    "787.18a89929.chunk.js.map": "/Greedy_Algorithms/static/js/787.18a89929.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0fba34ad.css",
-    "static/js/main.a7a3540d.js"
+    "static/js/main.9389e993.js"
   ]
 }
